@@ -1,1 +1,1 @@
-# Machine-Learnign---Text-Classification
+# Machine Learning Text Classification
